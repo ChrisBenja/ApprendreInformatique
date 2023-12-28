@@ -4,4 +4,8 @@ tomate
 cornichon
 fromage
 sauce 
+<<<<<<< HEAD
 burger
+=======
+moutarde
+>>>>>>> Test
